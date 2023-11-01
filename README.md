@@ -14,6 +14,6 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 Neighborhood_StoneBr, Neighborhood_NoRidge, GarageCars, OverallQual, GrLivArea are top five attributes, General regression will not work as there are high number of attributes. Ridge and Lasso are better model with alpha value 7.0 and 100
 
 ## Technologies Used
-pandas, scikit-learn, seaborn
+pandas, scikit-learn, seaborn, Anaconda Navigator 2.4.2
 ## Contact
 Created by @vishnu18 - feel free to contact me!
