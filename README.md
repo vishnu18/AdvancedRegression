@@ -13,4 +13,4 @@ Advanced Regression using Ridge and Lasso Technqiue. Real estate data is used to
 
 ## Technologies Used
 ## Contact
-Created by [@vishnu18] - feel free to contact me!
+Created by @vishnu18 - feel free to contact me!
